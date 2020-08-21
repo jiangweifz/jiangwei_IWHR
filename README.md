@@ -1,7 +1,7 @@
 ## 江威主页
 
 
-江威，1991年4月出生，男，汉族，湖北孝感人，研究领域为水利遥感信息智能处理。现任中国水利水电科学研究院水利部防洪抗旱减灾工程技术研究中心工程师。
+江威，1991年4月出生，男，汉族，湖北孝感人，研究领域为水利遥感、地表水体制图和洪灾风险模拟。
 
 
 
@@ -138,9 +138,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiangweifz/jiangwei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
