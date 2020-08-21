@@ -4,7 +4,6 @@
 
 江威，1991年4月出生，男，汉族，湖北孝感人，研究领域为水利遥感、地表水体制图和洪灾风险模拟。
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### 教育工作经历
 
