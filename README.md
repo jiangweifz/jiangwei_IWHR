@@ -89,8 +89,6 @@
 
 25.	**江威**，何国金，尹然宇. 卫星遥感见证北京大兴国际机场建设[J]. 卫星应用,2019(04):32-33.
 
-
-
 ### 参加国内外学术会议
 1.	**Jiang Wei**, Light Pollution in China based on Nighttime Optical Remote Sensing Satellite Technology [C], International Conference on Mechanical Engineering and Robotics Research, 26–28 December, 2016, Singapore.
 
@@ -114,32 +112,21 @@
 
 11.	**江威**，地表水体遥感信息智能提取和产品生成[C],中国水科院减灾中心年度学术交流大会，2020年1月16日，北京，中国
 
+### 申请专利
+1.	**江威**，庞治国，倪愿，付俊娥，曲伟，吕娟，杨昆，路京选，李小涛，李琳，杨永民，鞠洪润.一种基于Sentinel-2影像的陆表水体提取方法，申请号：202010476268.8, 实审
+
+2.	**江威**，庞治国，何国金，杨昆，龙腾飞，付俊娥，曲伟，吕娟，路京选，李小涛，李琳，鞠洪润.一种基于高分遥感的河流补水效果智能化监测评估方法，申请号：202010545567.2, 实审
+
+3.	**江威**，龙腾飞，庞治国，何国金，付俊娥，一种基于Google Earth Engine云平台的地表水体产品生成方法和系统，申请号：202010568232.2, 实审
+
+4.	**江威**，庞治国，何国金，冷宛春，付俊娥，吕娟，杨昆，路京选，曲伟，李小涛，李琳，杨永民，一种大尺度地表水体产品制图精度评估方法，申请号：202010646865.0, 实审
+
+
 ### 社会兼职
 担任《ISPRS Journal of Photogrammetry and Remote Sensing》（一区）、《Journal of Selected Topics in Applied Earth Observations and Remote Sensing》（三区）、 《Journal of Quantitative Spectroscopy and Radiative Transfer》（三区）、《遥感信息》和《桂林理工大学学报》等多个期刊审稿人。
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 其他
+研究成果被新华网（英文）、中科院官网、中科院之声等国家和部级宣传平台报道，并在《北京日报》科技专栏大版面发表了“卫星遥感揭秘全球夜光”的科技成果。
 
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
